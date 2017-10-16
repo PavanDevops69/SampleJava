@@ -1,2 +1,2 @@
 # SampleJava
-Java Application 
+Java Application For Polling
